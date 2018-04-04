@@ -1,4 +1,6 @@
-.game-content,
+.game-content {
+    text-align: center;
+}
 .instructions {
     text-align: center;
 }
