@@ -1,6 +1,18 @@
+body {
+    background-image: url("../images/congruent_pentagon.png")
+}
+.container {
+    margin-top: 50px;
+}
 .game-content {
     text-align: center;
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
 }
 .instructions {
     text-align: center;
+    background-color: white;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
